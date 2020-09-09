@@ -1,0 +1,14 @@
+.star{
+  cursor:pointer;
+  color: #e4e5e9;
+  transition: color 200ms;
+}
+.shinyStar{
+    color:#ffc107;
+}
+input{
+    display: none;
+}
+.ratingContainer{
+    display: flex;
+}
